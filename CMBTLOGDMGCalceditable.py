@@ -2,7 +2,7 @@
 # Created Date: 6/13/2022
 # Author: Clint Kline
 # Phase: Gamma
-# Purpose: analyze only the damage in a single combat log. 
+# Purpose: analyze and print the total damage, healing and damage taken for a given character in a single combat log. 
 
 # ---------------------------------------------------------------------------------------------
 # IMPORTS
